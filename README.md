@@ -1,11 +1,11 @@
 # 16bit-CPU
-This project is part of ENGG*3380 Computer Organization and Design course in University of Guelph
+## This project is part of ENGG*3380 Computer Organization and Design course in University of Guelph
 
-List of my colleagues working on this project:
+## List of my colleagues working on this project:
 - Chizorom Anyalenchi: https://github.com/ChizoromAnyalechi
 - Eric Cao: https://github.com/180Sai
 
-The CPU consists of: 
+## The CPU consists of: 
 - PC register, PC+2 every for next instruction
 - Instruction memory
 - 16-bit Register File
@@ -16,9 +16,10 @@ The CPU consists of:
 - Branch Adder
 - Jump Address Adder 
 
-Byte Ordering: Big Endian
+## Byte Ordering: 
+Big Endian
 
-The CPU can process the following MIPS instruction:
+## The CPU can process the following MIPS instruction:
 - add
 - addi
 - sub
@@ -30,3 +31,6 @@ The CPU can process the following MIPS instruction:
 - sw
 - bne
 - j
+
+## Project Report:
+[ENGG3380 Computer Organization.pdf](https://github.com/user-attachments/files/29155736/ENGG3380.Computer.Organization.pdf)
